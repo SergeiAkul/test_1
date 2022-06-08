@@ -1,0 +1,8 @@
+Summary: Error 404
+Discription: Open web-browser and check login
+steps to reproduce: 
+1) Open
+2) check
+
+Actual result: Error 404
+Expected result: Login
